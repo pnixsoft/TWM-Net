@@ -1,7 +1,6 @@
 Codes and Dataset for Paper "Industrial Semantic Communications for Tool Wear Monitoring in Industrial IoT Networks" submitted to ICCC2024.
 
 ICCC2024: 
-
 https://iccc2024.ieee-iccc.org/
 
 WS-18: Semantic Communications for Industrial Internet of Things (IIoT)
