@@ -60,9 +60,7 @@ root_dir = '../Toolweardata'
 # 创建自定义数据集
 dataset = CustomDataset(root_dir)
 
-# 设置训练集和验证集的比例
-train_ratio = 0.8
-
+# 设置训练集、验证集和测试集的比例
 val_size = int(0.2 * len(dataset))
 test_size = int(0.1 * len(dataset))
 train_size = len(dataset) - test_size - val_size
